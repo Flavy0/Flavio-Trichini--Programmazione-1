@@ -14,9 +14,5 @@ public class browser_main {
         browser.goBack();
 
         browser.printHistory();
-
-        browser.goBack();
-        browser.goBack();
-        browser.printHistory();
     }
 }
